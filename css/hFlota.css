@@ -16,7 +16,7 @@ body{
     margin-right: 2em;
     font-family: 'Orbitron',sans-serif;
     background-color: rgba(0, 0, 0, 0.774);
-    background-image: url(/images/sea.jpg);
+    background-image: url(../images/sea.jpg);
     background-position: 0 0;
     -webkit-background-position: 0 0;
     background-repeat: no-repeat;
